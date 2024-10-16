@@ -24,7 +24,7 @@ I'm passionate about developing solutions to the real world problems with the he
 * Open to collaborate in Open source projects, hackathons or just helping others.
 
 ## 🔩 Technologies I know
-* **Languages :** C++,C,Python,basics of bash and basic Web(HTML,CSS,Javascript DOM)
+* **Languages :** C++,C,Python,JAVA,basics of bash and basic Web(HTML,CSS,Javascript DOM)
 * **Databases :** Familier with both relational and non relational databases such as MySql and Mongodb.
 * **Frameworks :** Python Django framework, Scss(Sass)
 
